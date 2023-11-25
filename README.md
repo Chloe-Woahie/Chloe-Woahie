@@ -1,3 +1,3 @@
-# README.md
+# CHANGED USERNAME
 
-Following a link to my profile? I changed my account name and my account is now located at https://github.com/fekie
+Coming from a link to my profile? I changed my account name and my account is now located at https://github.com/fekie
